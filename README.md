@@ -16,4 +16,5 @@ In this section, we will demonstrate the impact of deviating from the original a
 In this section, we will showcase the inference results using both the model's pretrained resolution and a lower resolution.
 ![sample](https://github.com/MahdiMohseni0033/SVD/assets/108568972/63bee2d0-1965-45fb-90f7-b3964fc178cd)
 
-
+- same resolution as pretreained model 
+[Fit resolution](https://github.com/MahdiMohseni0033/SVD/assets/108568972/813d236c-173a-40d7-a53f-f87048be58d0)
