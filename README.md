@@ -10,15 +10,19 @@ In this section, we will demonstrate the impact of deviating from the original a
 - Modifying the aspect ratio results in a reduction in quality.
 - The generation of this video using T4 took 7 minutes and 13 seconds.
 - It utilizes 14.4GB GPU VRAM.
-- **NOTE:** The GPU memory used for inference is extremely dependent on the `decoding_t` parameter.
+- NOTE : the gpu memory used for inference is exteremly depended to `decoding_t` parameter 
 
 [Generated Video](https://github.com/MahdiMohseni0033/SVD/assets/108568972/71ff0ac2-c89c-4841-870b-ed0069252d21)
 
 ## Output
 In this section, we showcase the inference result in (576, 1024) images
 
-- [Output Image 1](https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/a0c48028-dbbc-48fa-801b-f950ca068fca)
-- [Output Image 2](https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/3a35915b-24c1-46c0-88c1-3fb11fac65bc)
-- [Output Image 3](https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/f93ed645-349b-4ee9-99db-9d51426b2eed)
-- [Output Image 4](https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/44f4ef22-3e9d-4b1f-9683-13306ffd0989)
-- [Output Image 5](https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/68c800e4-4dd6-4637-9c4a-adbaae26fcf5)
+https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/a0c48028-dbbc-48fa-801b-f950ca068fca
+
+https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/3a35915b-24c1-46c0-88c1-3fb11fac65bc
+
+https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/f93ed645-349b-4ee9-99db-9d51426b2eed
+
+https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/44f4ef22-3e9d-4b1f-9683-13306ffd0989
+
+https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/68c800e4-4dd6-4637-9c4a-adbaae26fcf5
