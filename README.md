@@ -1,6 +1,10 @@
 
 # Stable Video Diffusion 
-https://colab.research.google.com/drive/1QkFirU3fZY1TiIuQJa43W4XouLmZpSMn?usp=drive_link
+
+[Open in Colab]([paste_your_colab_link_here](https://colab.research.google.com/drive/1QkFirU3fZY1TiIuQJa43W4XouLmZpSMn?usp=drive_link))
+
+[Open in Colab](https://colab.research.google.com/drive/1QkFirU3fZY1TiIuQJa43W4XouLmZpSMn?usp=sharing)
+
 
 ![zebracat](https://github.com/MahdiMohseni0033/SVD/assets/108568972/0d8b4dba-6182-43fc-8a10-7a73f02c6c93)
 
