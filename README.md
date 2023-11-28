@@ -10,6 +10,7 @@ In this section, we will demonstrate the impact of deviating from the original a
 - Modifying the aspect ratio results in a reduction in quality.
 - The generation of this video using T4 took 7 minutes and 13 seconds.
 - It utilizes 14.4GB GPU VRAM.
+- NOTE : the gpu memory used for inference is exteremly depended to `decoding_t` parameter 
 
 [Generated Video](https://github.com/MahdiMohseni0033/SVD/assets/108568972/71ff0ac2-c89c-4841-870b-ed0069252d21)
 
