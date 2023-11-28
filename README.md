@@ -1,7 +1,6 @@
 
 # Stable Video Diffusion 
 
-[Open in Colab]([paste_your_colab_link_here](https://colab.research.google.com/drive/1QkFirU3fZY1TiIuQJa43W4XouLmZpSMn?usp=drive_link))
 
 [Open in Colab](https://colab.research.google.com/drive/1QkFirU3fZY1TiIuQJa43W4XouLmZpSMn?usp=sharing)
 
