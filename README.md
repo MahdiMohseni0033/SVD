@@ -21,5 +21,5 @@ In this section, we will showcase the inference results using both the model's p
 - Use the same resolution as the pre-trained model.
 
 
-[Generated Video 2](https://github.com/MahdiMohseni0033/SVD/assets/108568972/a1a96e66-039a-43fd-9b15-6637aafe9732)
+[Generated Video 2](https://github.com/MahdiMohseni0033/SVD/assets/108568972/81c0375d-6910-40a5-81b7-0f68269b71b9)
 
