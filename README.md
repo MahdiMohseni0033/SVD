@@ -13,7 +13,7 @@ In this section, we will demonstrate the impact of deviating from the original a
 
 [Generated Video](https://github.com/MahdiMohseni0033/SVD/assets/108568972/71ff0ac2-c89c-4841-870b-ed0069252d21)
 
-## Other outputs 
+## Output
 
 https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/a0c48028-dbbc-48fa-801b-f950ca068fca
 
