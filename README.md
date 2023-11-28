@@ -20,4 +20,4 @@ In this section, we will showcase the inference results using both the model's p
 
 - Use the same resolution as the pre-trained model.
 
-[Fit Resolution](https://github.com/MahdiMohseni0033/SVD/assets/108568972/e6ffcc47-5e4e-42f8-a4c4-7dae4ed7587a)
+[Fit Resolution](https://github.com/MahdiMohseni0033/SVD/assets/108568972/5f3e507c-6d81-4ace-b5e5-ee122003e8c0)
