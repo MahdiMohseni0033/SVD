@@ -20,4 +20,6 @@ In this section, we will showcase the inference results using both the model's p
 
 - Use the same resolution as the pre-trained model.
 
-https://github.com/MahdiMohseni0033/SVD/assets/108568972/5f3e507c-6d81-4ace-b5e5-ee122003e8c0
+
+[Generated Video 2](https://github.com/MahdiMohseni0033/SVD/assets/108568972/a1a96e66-039a-43fd-9b15-6637aafe9732)
+
