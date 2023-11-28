@@ -13,9 +13,11 @@ In this section, we will demonstrate the impact of deviating from the original a
 [Generated Video](https://github.com/MahdiMohseni0033/SVD/assets/108568972/71ff0ac2-c89c-4841-870b-ed0069252d21)
 
 ## Official github sample 
+
 In this section, we will showcase the inference results using both the model's pretrained resolution and a lower resolution.
+
 ![sample](https://github.com/MahdiMohseni0033/SVD/assets/108568972/63bee2d0-1965-45fb-90f7-b3964fc178cd)
 
 - Use the same resolution as the pre-trained model.
-https://github.com/MahdiMohseni0033/SVD/assets/108568972/e6ffcc47-5e4e-42f8-a4c4-7dae4ed7587a
-  [Fit resolution](https://github.com/MahdiMohseni0033/SVD/assets/108568972/813d236c-173a-40d7-a53f-f87048be58d0)
+
+[Fit resolution](https://github.com/MahdiMohseni0033/SVD/assets/108568972/e6ffcc47-5e4e-42f8-a4c4-7dae4ed7587a)
